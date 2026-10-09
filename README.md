@@ -1,1 +1,2 @@
-As part of working on your project you need to setup a GitHub account and get familiar with it. If you are new to GitHub, GitHub is a version control system for code repository, project code, open source, and now it has many more features from project management to code generation and testing.
+# hello-world
+This repository is for practicing the GitHub Flow
